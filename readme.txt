@@ -16,6 +16,10 @@ To run the basic electron app open the terminal in visual studio code and use "n
 To run the auto loader use "npm run watch".
 To restart the auto loader app just type "rs" in the terminal.
 
+# Important 
+
+You have to download the files from releases, github only allows a certain amout of file size and node_modules is to large for it.
+
 #Extra
 
 If you see any typos or anything you believe is an error please let me know and I will fix it, im a fast typer.
