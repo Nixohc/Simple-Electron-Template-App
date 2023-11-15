@@ -20,6 +20,8 @@ To restart the auto loader app just type "rs" in the terminal.
 
 You have to download the files from releases, github only allows a certain amout of file size and node_modules is to large for it.
 
+Make sure to always use the latest version of this project
+
 #Extra
 
 If you see any typos or anything you believe is an error please let me know and I will fix it, im a fast typer.
